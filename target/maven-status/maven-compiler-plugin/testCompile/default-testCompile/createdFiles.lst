@@ -1,0 +1,13 @@
+login\ui\GoogleSearchPage.class
+login\questions\LoginNormalErrorMessage.class
+login\tasks\LoginNormal.class
+login\tasks\LoginGoogle.class
+login\ui\LoginPage.class
+login\tasks\Search.class
+login\ui\LoginForm.class
+login\questions\LoginGithubErrorMessage.class
+login\ui\SearchBox.class
+login\tasks\LoginGithub.class
+login\features\login\LoginStory.class
+login\features\login\package-info.class
+login\tasks\OpenTheApplication.class

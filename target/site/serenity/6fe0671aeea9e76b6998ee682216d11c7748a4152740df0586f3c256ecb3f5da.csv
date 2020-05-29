@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login story","Login failed normal","SUCCESS","2020-05-29T23:36:21.403+07:00[Asia/Bangkok]","0.0","78.58"
+"Login story","Login success with github","SUCCESS","2020-05-29T23:37:40.622+07:00[Asia/Bangkok]","0.0","21.88"
+"Login story","Login failed with github","SUCCESS","2020-05-29T23:38:02.629+07:00[Asia/Bangkok]","0.0","15.87"
+"Login story","Login success normal","SUCCESS","2020-05-29T23:38:18.632+07:00[Asia/Bangkok]","0.0","19.37"
